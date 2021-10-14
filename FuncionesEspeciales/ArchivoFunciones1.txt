@@ -1,0 +1,1 @@
+Este archivo tiene funciones especiales para Archivo1
