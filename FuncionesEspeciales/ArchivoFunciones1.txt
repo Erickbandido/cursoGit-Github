@@ -1,1 +1,6 @@
 Este archivo tiene funciones especiales para Archivo1
+
+Imaginemos que este es una nueva funcion
+Es mas, pensemos que trabaje mas funciones.
+
+Y Con varias lineas de texto.
