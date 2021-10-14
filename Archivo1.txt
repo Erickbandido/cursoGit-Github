@@ -1,1 +1,14 @@
 Esto es un nuevo archivo para el curso de git y github
+
+Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. 
+Morbi volutpat ullamcorper facilisis. 
+Pellentesque ac porttitor felis. 
+Nullam vitae sem leo. 
+Suspendisse tristique viverra dapibus. 
+In hac habitasse platea dictumst. 
+Duis metus est, tristique eget libero et, 
+malesuada cursus turpis. 
+Pellentesque quis urna at justo pulvinar faucibus id sit amet libero. 
+Sed porta sapien orci. 
+Maecenas nibh orci, blandit vel enim ut, pulvinar placerat lacus. 
